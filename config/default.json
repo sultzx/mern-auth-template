@@ -1,0 +1,5 @@
+{
+    "port": 5050,
+    "mongodbUrl": "mongodb+srv://sult:61bsJTP82NkDGkQn@cluster0.ja1ehfb.mongodb.net/mern_app?retryWrites=true&w=majority",
+    "jwt_secret_key": "qwerty"
+}
